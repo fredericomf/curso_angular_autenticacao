@@ -42,10 +42,12 @@ A ideia principal desse curso é evoluir ainda mais os conhecimentos em Angular 
 ---
 ## 📝 Anotações particulares
 
-Dei um fork no backend do curso para garantir o funcionamento permanente.
+1. Dei um fork no backend do curso para garantir o funcionamento permanente.
 Clone em fora deste repositório, com o seguinte comando:
 
 ```bash
 git clone git@github.com:fredericomf/jornada-milhas-api.git
 ```
+
+
 

@@ -14,8 +14,11 @@
     padding: 0 256px;
   }
 
+  .logo {
+    cursor: pointer;
+  }
+
   .mat-mdc-outlined-button:not(:disabled) {
     border-color: white;
   }
 }
-
